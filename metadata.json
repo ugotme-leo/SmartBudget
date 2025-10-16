@@ -1,0 +1,5 @@
+{
+  "name": "SmartBudget",
+  "description": "A daily expense tracking application that allows users to categorize expenses, manage categories, and view monthly reports with charts. Data is saved locally in the browser.",
+  "requestFramePermissions": []
+}
